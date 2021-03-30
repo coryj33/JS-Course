@@ -1,0 +1,20 @@
+README:
+
+This script is a "Guess your Number" game. 
+
+Concept Notes:
+
+  Random Number:
+
+  let secretNumber = Math.trunc(Math.random() * 20) + 1;
+  console.log(secretNumber);
+  
+  Event Listener:
+  
+  document.querySelector('.check').addEventListener('click', function ()
+  
+  
+  
+  
+
+
